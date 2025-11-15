@@ -1,0 +1,10 @@
+@baseUrl = http://localhost:5000
+
+### Get Friend Request
+GET {{baseUrl}}/api/users/get-friend-request
+### Get Friend Request
+# GET {{baseUrl}}/api/users/get-own-friends
+
+
+# Get User Details
+GET {{baseUrl}}/api/users/get-user/6917c824c68dd710f9ed0d95
